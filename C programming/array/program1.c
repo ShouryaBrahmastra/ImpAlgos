@@ -32,7 +32,7 @@
 
 /**
  * @file program1.c
- * @author Shourya Gupta
+ * @author Shourya Gupta (https://github.com/ShouryaBrahmastra)
  * @version 0.1
  * @date 2022-01-11
  *
